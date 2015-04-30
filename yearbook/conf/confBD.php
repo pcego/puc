@@ -2,15 +2,15 @@
 
 function conn_mysql() {
 
-    $servidor = 'localhost';
+    $servidor = 'us-cdbr-azure-west-b.cleardb.com';
 
     $porta = 3306;
 
     $banco = "daw_yearbook";
 
-    $usuario = "daw";
+    $usuario = "b270e675edf94d";
 
-    $senha = "daw2014";
+    $senha = "e8a1bff1";
 
 
     $conn = new PDO("mysql:host=$servidor;
@@ -23,3 +23,4 @@ function conn_mysql() {
 }
 
 ?>
+
