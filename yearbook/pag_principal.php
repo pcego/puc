@@ -7,7 +7,7 @@ include_once("./modelos/cabecalho_bdcompleto.html");
 <div class="container">		
 
     <div class="starter-template">
-        <br><br>     
+        <br><br><br><br><br><br><br><br>     
     </div>
 
 <?php
